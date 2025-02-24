@@ -27,13 +27,6 @@ This project is great for gaining hands-on experience with:
 * **12V Power Supply:** power source for Controller, Display and Sensors
 
 
-🗂 **Project Structure**
-
-/bidirectional\_counter  
-|-- /Code                              \# Arduino sketch (.ino)  
-|-- /Circuit-Diagram             \# Circuit diagram and wiring illustrations
-
-
 ⚙️ **Installation and Setup**
 
 1. **Clone the Repository:**  
